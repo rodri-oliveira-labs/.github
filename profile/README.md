@@ -1,14 +1,16 @@
+[Português](README.pt-BR.md) | **English**
+
 # Rodri Oliveira Labs
 
 **Software Architecture · .NET · Distributed Systems · Developer Tooling · Cloud · Governance as Code**
 
-Rodri Oliveira Labs is an open-source engineering space focused on turning software architecture principles into practical, executable, and reusable solutions.
+Rodri Oliveira Labs builds open-source libraries, developer tools, reference implementations, templates, and automation that turn software architecture decisions into practical, testable, and reusable engineering assets.
 
-The organization brings together libraries, developer tools, reference implementations, templates, experiments, and automation designed to make architectural decisions easier to understand, validate, maintain, and evolve.
+The focus is on keeping architecture close to implementation, making decisions explicit, and using automation to validate quality, reliability, security, and architectural constraints.
 
 ## What we build
 
-Projects in this organization may explore areas such as:
+Projects in this organization focus on:
 
 - **Software Architecture**  
   Architecture as code, C4 modeling, ADRs, architectural fitness functions, and automated validation.
@@ -42,9 +44,9 @@ The projects maintained here generally follow a few principles:
 - Preserve compatibility when evolving established public contracts.
 - Make documentation part of the engineering workflow.
 
-## Open source
+## Projects
 
-This organization is intended to host projects that can be useful beyond a single application or team.
+This organization is intended to host open-source projects that can be useful beyond a single application or team.
 
 Depending on the project, repositories may include:
 
@@ -56,6 +58,8 @@ Depending on the project, repositories may include:
 - GitHub Actions;
 - analyzers;
 - experimental projects and proofs of concept.
+
+As projects are consolidated under the organization, this section will highlight selected repositories and their purpose.
 
 Each repository defines its own support policy, contribution guidelines, compatibility guarantees, and release lifecycle.
 
